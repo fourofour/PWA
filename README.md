@@ -29,13 +29,11 @@ According to [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/We
 
 #### How to use it ?
 
-Add the following code to the Head section of your document
+Add the following code to the Head section of your document after creating your manifest file
 
 ```
 <link rel="manifest" href="/manifest.json">
 ```
-
-Next step ? go a head and create a that file in that path :)
 
 #### What are the properties of Manifest ?
 * **background_color**
