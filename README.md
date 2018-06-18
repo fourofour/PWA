@@ -9,13 +9,18 @@ Working around Progressive Web Apps
 
 
 # Up coming
-- short_name and/or name
-- icons
-- start_url
-- background_color
+- description
+- dir
 - display
+- icons
+- lang
+- name
 - orientation
+- prefer_related_applications
+- related_applications
 - scope
+- short_name
+- start_url
 - theme_color
 
 
@@ -57,9 +62,42 @@ Next step ? go a head and create a that file in that path :)
 * **description**
 
 
+* **dir**    
+
+
+* **display**
+
+
+* **icons**
+
+
+* **lang**
+
+
+* **name**
+
+
+* **orientation**
+
+
+* **prefer_related_applications**
+
+
+* **related_applications**
+
+
+* **scope**
+
+
 * **short_name**
 
     According to [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/Manifest#short_name) :
     > Provides a short human-readable name for the application. This is intended for when there is insufficient space to display the full name of the web application, like device homescreens.
     
     ``"short_name": "I/O 2017"``
+    
+
+* **start_url**
+
+
+* **theme_color**
