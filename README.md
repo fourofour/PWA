@@ -9,19 +9,7 @@ Working around Progressive Web Apps
 
 
 # Up coming
-- description
-- dir
-- display
-- icons
-- lang
-- name
-- orientation
-- prefer_related_applications
-- related_applications
-- scope
-- short_name
-- start_url
-- theme_color
+- all manifest properties test result to find the fittest info for each one
 
 
 # So far we learned
