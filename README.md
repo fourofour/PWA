@@ -206,6 +206,7 @@ Add the following code to the Head section of your document after creating your 
     
 
 * **start_url**
+
     According to [developer.google.com](https://developers.google.com/web/fundamentals/web-app-manifest#start-url) :
     > The start_url tells the browser where your application should start when it is launched, and prevents the app from starting on whatever page the user was on when they added your app to their home screen.
 
